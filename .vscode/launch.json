@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "Documents_882daed7"
+        },
+        {
+            "type": "java",
             "name": "Launch Capital",
             "request": "launch",
             "mainClass": "Capital",
