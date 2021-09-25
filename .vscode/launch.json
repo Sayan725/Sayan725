@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Student1",
+            "request": "launch",
+            "mainClass": "Student1",
+            "projectName": "Documents_882daed7"
+        },
+        {
+            "type": "java",
+            "name": "Launch StuApp",
+            "request": "launch",
+            "mainClass": "StuApp",
+            "projectName": "Documents_882daed7"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "Documents_882daed7"
+        },
+        {
+            "type": "java",
             "name": "Launch Prime",
             "request": "launch",
             "mainClass": "Prime",
