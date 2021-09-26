@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "Documents_882daed7"
+        },
+        {
+            "type": "java",
             "name": "Launch Student1",
             "request": "launch",
             "mainClass": "Student1",
